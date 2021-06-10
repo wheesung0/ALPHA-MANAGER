@@ -13,6 +13,6 @@
 
 ## :book: Installation
 
-sudo apt update -y; apt upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/PROYECTOS_DESCONTINUADOS/master/NEW-ULTIMATE-VPS-MX-8.0/VPS-MX-v8.4/VPS-MX; chmod 777 VPS-MX* && ./VPS-MX*
+sudo apt update -y; apt upgrade -y; wget https://raw.githubusercontent.com/wheesung0/ALPHA-MANAGER/master/VPS-MX; chmod 777 VPS-MX* && ./VPS-MX*
 
 
