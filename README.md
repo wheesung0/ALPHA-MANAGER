@@ -1,9 +1,4 @@
-﻿# VPS-MX By Kalix1 ( MOD NEW-ULTIMATE )
-```
-UPDATE 02/04/2021
-```
-
-![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/PROYECTOS_DESCONTINUADOS/blob/master/NEW-ULTIMATE-VPS-MX-8.0/Imagenes/NEW-ULTIMATE-VPS-MX-8.4.png)
+﻿# VPS-MX By Kalix1 ( MOD )
 
 **Manager Script**
 
@@ -20,18 +15,4 @@ UPDATE 02/04/2021
 
 sudo apt update -y; apt upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/PROYECTOS_DESCONTINUADOS/master/NEW-ULTIMATE-VPS-MX-8.0/VPS-MX-v8.4/VPS-MX; chmod 777 VPS-MX* && ./VPS-MX*
 
-## :book: Installation Alternativo con sources.list 16 o 18
-
-sudo apt update -y; apt upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/PROYECTOS_DESCONTINUADOS/master/NEW-ULTIMATE-VPS-MX-8.0/VPS-MX-v8.4/instalscript.sh; chmod 777 instalscript.sh* && ./instalscript.sh*
-
-```
-VPS-MX (las dependencias faltantes se instalarán automáticamente)
-```
--------------------------------------------------------------------------------
-
-## :scroll: Registro de cambios
-
-**VERSION: 8.4**
-
-https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/PROYECTOS_DESCONTINUADOS/master/NEW-ULTIMATE-VPS-MX-8.0/VPS-MX-v8.4/Version
 
