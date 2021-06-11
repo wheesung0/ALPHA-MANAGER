@@ -95,7 +95,7 @@ chmod +x Instalador-Shadowsocks-libev.sh
 msg -bar
 echo -e "\033[1;93m  Desinstalar  ..."
 msg -bar
-wget --no-check-certificate -O Instalador-Shadowsocks-libev.sh https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/VPS-MX/main/VPS-MX_Oficial/ArchivosUtilitarios/Instalador-Shadowsocks-libev.sh > /dev/null 2>&1
+wget --no-check-certificate -O Instalador-Shadowsocks-libev.sh https://raw.githubusercontent.com/wheesung0/ALPHA-MANAGER/master/Install/ArchivosUtilitarios/Instalador-Shadowsocks-libev.sh > /dev/null 2>&1
 chmod +x Instalador-Shadowsocks-libev.sh
 ./Instalador-Shadowsocks-libev.sh uninstall
 rm -rf Instalador-Shadowsocks-libev.sh
