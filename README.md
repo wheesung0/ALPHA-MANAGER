@@ -1,4 +1,4 @@
-﻿# VPS-MX By Kalix1 ( MOD )
+﻿# VPS-MX By Kalixto ( MOD )
 
 **Manager Script**
 
