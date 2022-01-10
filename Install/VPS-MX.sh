@@ -401,6 +401,7 @@ cd $HOME
 msg -ne "Files: "
 wget -O $HOME/lista-arq ${REQUEST}/lista-arq > /dev/null 2>&1 && echo -e "\033[1;32m Verificado" || {
    echo -e "\033[1;32m Verificada"
+   invalid_key
    exit
    }
 sleep 1s
@@ -439,5 +440,5 @@ if [[ -e $HOME/lista-arq ]] && [[ ! $(cat $HOME/lista-arq|grep "Code de KEY Inva
 [[ ${byinst} = "true" ]] && install_fim
 else
 invalid_key
-if
+fi
 rm -rf VPS-MX
